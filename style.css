@@ -1,0 +1,79 @@
+.header{
+	width: 100%;
+	height: 35px;
+	background-color: darkgray;
+	border-radius: 0 0 15px 15px;
+}
+body{
+	margin: 0;
+}
+.logo{
+	float: left;
+	color: white;
+	margin-left: 39px;
+	font-size: 20px;
+	margin-top: 5px;
+}	
+.link{
+	float: right;
+	color: white;
+	margin-right: 39px;
+	font-size: 20px;
+	margin-top: 5px;
+}
+.ilon{
+	margin-top: 40px;
+	float: left;
+}
+.text{
+	color: white;
+	background-color: black;
+	width: 70%;
+	float: right;
+	margin-top: 40px;
+	border-radius: 130px 0 0 130px;
+	text-align: center;
+}
+.boximg{
+	width: 100%;
+}
+.box{
+	width: 150px;
+	margin-left: 10%;
+}
+.texts{
+	color: white;
+	background-color: black;
+	width: 65%;
+	float: right;
+	margin-top: 40px;
+	border-radius: 130px 0 0 130px;
+	text-align: center;
+}
+.dilon{
+	margin-top: 150px;
+	float: left;
+	width: 10%;
+}
+.box1{
+	width: 150px;
+	margin-left: 10%;
+	height: 90px;
+}
+.box2{
+	width: 150px;
+	margin-left: 10%;
+}
+.steve{
+	float: right;
+
+}
+.texts1{
+	color: white;
+	background-color: black;
+	width: 65%;
+	float: left;
+	margin-top: 40px;
+	border-radius: 0 130px 130px 0;
+	text-align: center;
+}
